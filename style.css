@@ -1,0 +1,26 @@
+body{
+    
+        background-color: #a11f2c;
+        color: rgb(196, 194, 194);
+        font-family: Verdana, sans-serif;
+    }
+    h1, h2, span{    
+        font-weight: bold;
+        color: #530e03;
+    }
+    a{
+        color: rgb(196, 194, 194);
+        text-decoration: none;
+    }
+    a:hover{
+        color: rgb(196, 194, 194);
+        background-color: #741204;
+        font-size: 1.25rem;
+        transition: 0.5s;
+        cursor: pointer;
+        opacity: 0.3;
+        color: crimson;
+    }
+    a:visited{
+        color: rgb(196, 194, 194)white;
+    }
